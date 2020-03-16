@@ -8,7 +8,7 @@ Nome: < Thiago Bellotti Pavin >
 | Nome/Título                                               | Santos Dumont         | DESKTOP-4HA8L2L |
 | Imagem (foto, diagrama, screenshot, etc.)                 | ![](/images/ImagemTop500.png)| ![](/images/ImagemPC.png) |
 | Classificação de Flynn                                    | MIMD                  | MIMD            |
-| Memória: compartilhada, distribuída ou ambas?             | Compartilhada         | Compartilhada   |
+| Memória: compartilhada, distribuída ou ambas?             | Ambas                 | Compartilhada   |
 | Número total de núcleos de processamento                  | 33,856                | 4               |
 | Fabricante e modelo do(s) processador(es)                 | Xeon Gold 6252 24C 2.1GHz | Intel Core i7-6700k CPU 4.00GHz |
 | Frequência do(s) processador(es)                          | 2.1 GHz               | 4 GHz           |
